@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="13acd735-a667-42c3-bfc7-656d985a6301" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/services/exceptions/DatabaseException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/entities/Product.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/entities/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/entities/Category.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/resource/CategoryResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/resource/CategoryResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/resource/exceptions/ResourceExceptionsHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/resource/exceptions/ResourceExceptionsHandler.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/services/CategoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/catalog/Spring/services/CategoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/resources/import.sql" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/resources/import.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
